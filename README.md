@@ -39,9 +39,6 @@ For running this application, you have to specify certificate path, stellar acco
 ```sh
 CERT_PATH=<path>/ ACCOUNT_ID=<accountId> ACCOUNT_SECRET=<secret> TLS_FLAG=0 npm test
 ```
-## License
-
-
 ## Credits
 
 -
